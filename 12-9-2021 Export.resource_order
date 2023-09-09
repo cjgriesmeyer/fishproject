@@ -1,5 +1,9 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"LIGHT SHAFTS","order":1,"path":"folders/Objects/Archive/LIGHT SHAFTS.yy",},
+    {"name":"PLANETS","order":2,"path":"folders/Objects/Archive/PLANETS.yy",},
+    {"name":"RED PLANET","order":3,"path":"folders/Objects/Archive/RED PLANET.yy",},
+  ],
   "ResourceOrderSettings": [
     {"name":"s_space","order":1,"path":"sprites/s_space/s_space.yy",},
     {"name":"s_nextRoom","order":2,"path":"sprites/s_nextRoom/s_nextRoom.yy",},
@@ -95,15 +99,14 @@
     {"name":"o_playerSeedParent","order":3,"path":"objects/o_playerSeedParent/o_playerSeedParent.yy",},
     {"name":"o_combatPlayer","order":1,"path":"objects/o_combatPlayer/o_combatPlayer.yy",},
     {"name":"o_nextRoomInvis","order":1,"path":"objects/o_nextRoomInvis/o_nextRoomInvis.yy",},
-    {"name":"o_playerOnFoot","order":2,"path":"objects/o_playerOnFoot/o_playerOnFoot.yy",},
+    {"name":"o_playerOnFoot","order":6,"path":"objects/o_playerOnFoot/o_playerOnFoot.yy",},
     {"name":"o_portExit","order":2,"path":"objects/o_portExit/o_portExit.yy",},
     {"name":"o_invisWall","order":3,"path":"objects/o_invisWall/o_invisWall.yy",},
+    {"name":"o_overworldPlayer","order":7,"path":"objects/o_overworldPlayer/o_overworldPlayer.yy",},
     {"name":"o_missilePickup","order":1,"path":"objects/o_missilePickup/o_missilePickup.yy",},
     {"name":"o_powerupHolder","order":2,"path":"objects/o_powerupHolder/o_powerupHolder.yy",},
     {"name":"o_sunRhythmShip","order":1,"path":"objects/o_sunRhythmShip/o_sunRhythmShip.yy",},
-    {"name":"o_overworldSunShip","order":2,"path":"objects/o_overworldSunShip/o_overworldSunShip.yy",},
     {"name":"o_scrapTruck","order":13,"path":"objects/o_scrapTruck/o_scrapTruck.yy",},
-    {"name":"o_overworldSunShotShip","order":3,"path":"objects/o_overworldSunShotShip/o_overworldSunShotShip.yy",},
     {"name":"o_sunShotShip","order":4,"path":"objects/o_sunShotShip/o_sunShotShip.yy",},
     {"name":"o_sunMissileShip","order":5,"path":"objects/o_sunMissileShip/o_sunMissileShip.yy",},
     {"name":"o_sunShieldShip","order":8,"path":"objects/o_sunShieldShip/o_sunShieldShip.yy",},

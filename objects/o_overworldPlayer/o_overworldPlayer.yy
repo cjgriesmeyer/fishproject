@@ -16,8 +16,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "PLAYERS",
-    "path": "folders/Objects/PLAYERS.yy",
+    "name": "Archive",
+    "path": "folders/Objects/Archive.yy",
   },
   "parentObjectId": {
     "name": "o_playerSeedParent",
