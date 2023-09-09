@@ -13,9 +13,10 @@ audio_play_sound(sfx_playerDamage, 0, 0, 1.0, undefined, 1.0);
 /// @DnDArgument : "var" "global.playerCurrentShipHealth"
 global.playerCurrentShipHealth += -7;
 
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDAction : YoYo Games.Instances.Change_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 7DC9872F
-/// @DnDComment : destroy colliding projectile
+/// @DnDHash : 09BF1435
 /// @DnDApplyTo : other
-with(other) instance_destroy();
+/// @DnDArgument : "objind" "o_explosion64"
+/// @DnDSaveInfo : "objind" "o_explosion64"
+with(other) instance_change(o_explosion64, true);

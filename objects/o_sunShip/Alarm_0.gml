@@ -18,5 +18,4 @@ with(o_sunShipLaser) vspeed = 5;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 500DC47D
-/// @DnDArgument : "steps" "5"
-alarm_set(0, 5);
+alarm_set(0, 30);
