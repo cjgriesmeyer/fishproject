@@ -1,19 +1,19 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "r_combatSample1_5",
+  "name": "r_combatSampleMissile",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_78D3BBD8","path":"rooms/r_combatSample1_5/r_combatSample1_5.yy",},
-    {"name":"inst_5DA63FE3","path":"rooms/r_combatSample1_5/r_combatSample1_5.yy",},
-    {"name":"inst_7833F569","path":"rooms/r_combatSample1_5/r_combatSample1_5.yy",},
-    {"name":"inst_6A653419","path":"rooms/r_combatSample1_5/r_combatSample1_5.yy",},
-    {"name":"inst_3C16DB95","path":"rooms/r_combatSample1_5/r_combatSample1_5.yy",},
-    {"name":"inst_330FE0C7","path":"rooms/r_combatSample1_5/r_combatSample1_5.yy",},
-    {"name":"inst_52B3803A","path":"rooms/r_combatSample1_5/r_combatSample1_5.yy",},
+    {"name":"inst_78D3BBD8","path":"rooms/r_combatSampleMissile/r_combatSampleMissile.yy",},
+    {"name":"inst_5DA63FE3","path":"rooms/r_combatSampleMissile/r_combatSampleMissile.yy",},
+    {"name":"inst_7833F569","path":"rooms/r_combatSampleMissile/r_combatSampleMissile.yy",},
+    {"name":"inst_6A653419","path":"rooms/r_combatSampleMissile/r_combatSampleMissile.yy",},
+    {"name":"inst_3C16DB95","path":"rooms/r_combatSampleMissile/r_combatSampleMissile.yy",},
+    {"name":"inst_330FE0C7","path":"rooms/r_combatSampleMissile/r_combatSampleMissile.yy",},
+    {"name":"inst_52B3803A","path":"rooms/r_combatSampleMissile/r_combatSampleMissile.yy",},
   ],
   "isDnd": true,
   "layers": [
@@ -29,8 +29,8 @@
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":4.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"s_space","path":"sprites/s_space/s_space.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":3.0,"vtiled":true,"x":0,"y":0,},
   ],
   "parent": {
-    "name": "SPACE",
-    "path": "folders/Rooms/SPACE.yy",
+    "name": "SPACE_ACTIVE",
+    "path": "folders/Rooms/SPACE_ACTIVE.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
